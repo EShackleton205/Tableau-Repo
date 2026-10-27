@@ -54,3 +54,7 @@ Through this project, I strengthened my ability to:
 
 ## Project Outcome
 The completed dashboard provides an interactive view of retail and sales performance, enabling users to explore trends, compare metrics, and uncover insights through intuitive visualizations and filtering capabilities.
+
+<img width="1178" height="508" alt="Screenshot 2026-10-27 104302" src="https://github.com/user-attachments/assets/337047db-54f4-4149-a248-e179bc5c5123" />
+
+<img width="1176" height="530" alt="Screenshot 2026-10-27 104350" src="https://github.com/user-attachments/assets/4fd86f06-77a1-4c1c-b5e9-49728d6d8f25" />
